@@ -13,6 +13,13 @@ O projeto visa aplicar conceitos de **arquitetura de software**, **persistência
 - **Banco NoSQL:** MongoDB
 - **Arquitetura:** MVC com camada Service
 
+Entregaveis:
+
+- Link da Demonstração: https://www.youtube.com/watch?v=TWEVRRPNRZg
+- Banco MySQL: banco_dados
+- DER: DER_diagrama.mwb
+- Documentação do Sistema: Documentacao_Assistencia_Tecnica_EmilyColen
+  
 ---
 
 ## 📌 Sobre o projeto
